@@ -3,3 +3,6 @@ practice/
 
 #ignores resources
 resources/
+
+#ignores axios
+node_modules
